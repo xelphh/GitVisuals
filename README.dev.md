@@ -1,5 +1,5 @@
 # GitVisuals - Complete Usage Guide
-
+Created by Ai (the guide and 60% of code aswell)
 > Flatten any GitHub repository into a beautiful, interactive static HTML page
 
 **Repository:** https://github.com/xelphh/GitVisuals.git

@@ -45,6 +45,6 @@ python GitVisuals.py https://github.com/username/repo --max-bytes 200000
 - Editor and LLM view modes
 - Skips binaries and large files
 
-## License
-
-0BSD
+#Credits: 
+Xelph (New design & some of the features)
+Andrej Karpathy (idea and initial source)
